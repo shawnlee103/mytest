@@ -1,1 +1,2 @@
 add test config
+sudo mount -t vboxsf share /home/shareData
